@@ -1,6 +1,6 @@
 # Hi, I'm Garvita Jain 👋
 
-🎓 MS Computer Science @ UMBC (GPA: 3.78) — graduating May 2026  
+🎓 MS Computer Science @ UMBC (GPA: 3.8) — graduating May 2026  
 💼 Ex-Database Administrator & Systems Engineer @ Tata Consultancy Services (3 years)  
 🧑‍🏫 Graduate Assistant — mentoring 100+ students in Algorithms, ML, and Distributed Systems  
 📍 Baltimore, MD | Open to Full-Time Roles in ML / Backend / Cloud Engineering
