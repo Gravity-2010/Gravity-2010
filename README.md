@@ -61,10 +61,13 @@ I'm a CS grad student with 3 years of industry experience building and maintaini
 
 ---
 
-## 📊 GitHub Stats
+## 📊 A Few Numbers
 
-![Garvita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gravity-2010&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravity-2010&layout=compact&theme=tokyonight&hide_border=true)
+- 🏢 **3 years** of industry experience at TCS
+- 👩‍🎓 **100+ students** mentored as a Graduate Assistant
+- ⚡ Reduced release cycle time by **30%** via CI/CD automation
+- 🩺 Trained on **100K+ chest X-rays** for medical imaging research
+- 🔧 Achieved **95% first-response fixes** in production incident resolution
 
 ---
 
